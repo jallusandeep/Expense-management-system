@@ -1,0 +1,30 @@
+2024-11-24 09:47:38,848 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2024-11-24 09:47:38,848 - db_helper - INFO - Attempting database connection
+2024-11-24 09:47:38,855 - db_helper - INFO - MySQL Connected successfully
+2024-11-24 09:47:38,857 - db_helper - INFO - Retrieved 5 records for date 2024-08-01
+2024-11-24 09:47:38,858 - db_helper - INFO - Database connection closed
+2024-11-24 09:47:43,590 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2024-11-24 09:47:43,591 - db_helper - INFO - Attempting database connection
+2024-11-24 09:47:43,606 - db_helper - INFO - MySQL Connected successfully
+2024-11-24 09:47:43,606 - db_helper - INFO - Retrieved 5 records for date 2024-08-01
+2024-11-24 09:47:43,610 - db_helper - INFO - Database connection closed
+2024-11-24 09:47:45,650 - db_helper - INFO - Fetching expense summary from 2024-08-01 to 2024-08-05
+2024-11-24 09:47:45,651 - db_helper - INFO - Attempting database connection
+2024-11-24 09:47:45,661 - db_helper - INFO - MySQL Connected successfully
+2024-11-24 09:47:45,665 - db_helper - INFO - Retrieved summary with 5 categories
+2024-11-24 09:47:45,665 - db_helper - INFO - Database connection closed
+2024-11-24 09:48:22,174 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2024-11-24 09:48:22,174 - db_helper - INFO - Attempting database connection
+2024-11-24 09:48:22,180 - db_helper - INFO - MySQL Connected successfully
+2024-11-24 09:48:22,180 - db_helper - INFO - Retrieved 5 records for date 2024-08-01
+2024-11-24 09:48:22,180 - db_helper - INFO - Database connection closed
+2024-11-24 09:48:25,107 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2024-11-24 09:48:25,108 - db_helper - INFO - Attempting database connection
+2024-11-24 09:48:25,125 - db_helper - INFO - MySQL Connected successfully
+2024-11-24 09:48:25,127 - db_helper - INFO - Retrieved 5 records for date 2024-08-01
+2024-11-24 09:48:25,128 - db_helper - INFO - Database connection closed
+2024-11-24 09:48:27,172 - db_helper - INFO - Fetching expense summary from 2024-08-01 to 2024-11-28
+2024-11-24 09:48:27,172 - db_helper - INFO - Attempting database connection
+2024-11-24 09:48:27,183 - db_helper - INFO - MySQL Connected successfully
+2024-11-24 09:48:27,184 - db_helper - INFO - Retrieved summary with 5 categories
+2024-11-24 09:48:27,185 - db_helper - INFO - Database connection closed
