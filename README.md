@@ -91,4 +91,3 @@ The backend includes tests to verify the functionality of the database operation
 To run the backend tests, navigate to the `tests/` directory and use `pytest`:
 ```bash
 pytest backend/tests/
-.
